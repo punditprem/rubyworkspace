@@ -11,8 +11,9 @@ class ApplicationController < ActionController::Base
     render html: "goodbye, world"
   end
   
-  def spanish_hello
-    render html : "hola, mundo!"
+  def spanishhello
+    render html : "hola, mundo"
   end
+
 end
 
