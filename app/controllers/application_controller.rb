@@ -12,7 +12,7 @@ class ApplicationController < ActionController::Base
   end
   
   def spanishhello
-    render html: "hola, mundo!"
+    render html: "hola, mundo1!"
   end
 
 end
